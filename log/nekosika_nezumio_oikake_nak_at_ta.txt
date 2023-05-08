@@ -1,0 +1,90 @@
+  added (neg/(neg\np))
+  added ((v\np)/((v\np)\np))
+  added ((v\np)\np)
+  added (neg\v)
+  added (v\neg)
+  added (s\v)
+at (0, 0, 1) - (neg/(neg\np)) "nekosika" + ((v\np)/((v\np)\np)) "nezumio"
+at (1, 1, 2) - ((v\np)/((v\np)\np)) "nezumio" + ((v\np)\np) "oikake"
+  added (v\np)
+at (0, 0, 2) - (neg/(neg\np)) "nekosika" + (v\np) "nezumio oikake"
+at (2, 2, 3) - ((v\np)\np) "oikake" + (neg\v) "nak"
+  added ((neg\np)\np)
+at (1, 2, 3) - (v\np) "nezumio oikake" + (neg\v) "nak"
+  added (neg\np)
+at (1, 1, 3) - ((v\np)/((v\np)\np)) "nezumio" + ((neg\np)\np) "oikake nak"
+at (0, 0, 3) - (neg/(neg\np)) "nekosika" + (neg\np) "nezumio oikake nak"
+  added neg
+at (3, 3, 4) - (neg\v) "nak" + (v\neg) "at"
+  added (v\v)
+at (2, 3, 4) - ((neg\np)\np) "oikake nak" + (v\neg) "at"
+  added ((v\np)\np)
+at (2, 2, 4) - ((v\np)\np) "oikake" + (v\v) "nak at"
+  added ((v\np)\np)
+at (1, 3, 4) - (neg\np) "nezumio oikake nak" + (v\neg) "at"
+  added (v\np)
+at (1, 2, 4) - (v\np) "nezumio oikake" + (v\v) "nak at"
+at (1, 1, 4) - ((v\np)/((v\np)\np)) "nezumio" + ((v\np)\np) "oikake nak at"
+  added (v\np)
+at (1, 1, 4) - ((v\np)/((v\np)\np)) "nezumio" + ((v\np)\np) "oikake nak at"
+  added (v\np)
+at (0, 3, 4) - neg "nekosika nezumio oikake nak" + (v\neg) "at"
+  added v
+at (0, 0, 4) - (neg/(neg\np)) "nekosika" + (v\np) "nezumio oikake nak at"
+at (0, 0, 4) - (neg/(neg\np)) "nekosika" + (v\np) "nezumio oikake nak at"
+at (0, 0, 4) - (neg/(neg\np)) "nekosika" + (v\np) "nezumio oikake nak at"
+at (4, 4, 5) - (v\neg) "at" + (s\v) "ta"
+  added (s\neg)
+at (3, 4, 5) - (v\v) "nak at" + (s\v) "ta"
+  added (s\v)
+at (3, 3, 5) - (neg\v) "nak" + (s\neg) "at ta"
+at (2, 4, 5) - ((v\np)\np) "oikake nak at" + (s\v) "ta"
+  added ((s\np)\np)
+at (2, 4, 5) - ((v\np)\np) "oikake nak at" + (s\v) "ta"
+  added ((s\np)\np)
+at (2, 3, 5) - ((neg\np)\np) "oikake nak" + (s\neg) "at ta"
+  added ((s\np)\np)
+at (2, 2, 5) - ((v\np)\np) "oikake" + (s\v) "nak at ta"
+  added ((s\np)\np)
+at (1, 4, 5) - (v\np) "nezumio oikake nak at" + (s\v) "ta"
+  added (s\np)
+at (1, 4, 5) - (v\np) "nezumio oikake nak at" + (s\v) "ta"
+  added (s\np)
+at (1, 4, 5) - (v\np) "nezumio oikake nak at" + (s\v) "ta"
+  added (s\np)
+at (1, 3, 5) - (neg\np) "nezumio oikake nak" + (s\neg) "at ta"
+at (1, 2, 5) - (v\np) "nezumio oikake" + (s\v) "nak at ta"
+at (1, 1, 5) - ((v\np)/((v\np)\np)) "nezumio" + ((s\np)\np) "oikake nak at ta"
+at (1, 1, 5) - ((v\np)/((v\np)\np)) "nezumio" + ((s\np)\np) "oikake nak at ta"
+at (1, 1, 5) - ((v\np)/((v\np)\np)) "nezumio" + ((s\np)\np) "oikake nak at ta"
+at (1, 1, 5) - ((v\np)/((v\np)\np)) "nezumio" + ((s\np)\np) "oikake nak at ta"
+at (0, 4, 5) - v "nekosika nezumio oikake nak at" + (s\v) "ta"
+  added s
+at (0, 3, 5) - neg "nekosika nezumio oikake nak" + (s\neg) "at ta"
+at (0, 0, 5) - (neg/(neg\np)) "nekosika" + (s\np) "nezumio oikake nak at ta"
+at (0, 0, 5) - (neg/(neg\np)) "nekosika" + (s\np) "nezumio oikake nak at ta"
+at (0, 0, 5) - (neg/(neg\np)) "nekosika" + (s\np) "nezumio oikake nak at ta"
+
+PARSE(S):
+*s <
+| *v <
+| | *neg >
+| | | *(neg/(neg\np)) "nekosika"
+| | | *(neg\np) <
+| | | | *(v\np) >
+| | | | | *((v\np)/((v\np)\np)) "nezumio"
+| | | | | *((v\np)\np) "oikake"
+| | | | *((neg\np)\(v\np)) B
+| | | | | *(neg\v) "nak"
+| | *(v\neg) "at"
+| *(s\v) "ta"
+
+
+DISTANCE COSTS:
+"nekosika" 0
+"nezumio" 0
+"oikake" 1
+"nak" 3
+"at" 1
+"ta" 1
+

@@ -1,0 +1,396 @@
+  added (np^/n^)
+  added n^
+  added ((n^\n^)/(s/np^))
+  added (np^/n^)
+  added n^
+  added (s\np^)
+  added (s\np^)
+at (0, 0, 1) - (np^/n^) "the" + n^ "rat"
+  added np^
+at (1, 1, 2) - n^ "rat" + ((n^\n^)/(s/np^)) "that"
+  added (n^/(s/np^))
+at (0, 1, 2) - np^ "the rat" + ((n^\n^)/(s/np^)) "that"
+  added ((n^\n^)/((s/np^)\np^))
+at (0, 0, 2) - (np^/n^) "the" + (n^/(s/np^)) "rat that"
+  added (np^/(s/np^))
+at (2, 2, 3) - ((n^\n^)/(s/np^)) "that" + (np^/n^) "the"
+at (1, 2, 3) - (n^/(s/np^)) "rat that" + (np^/n^) "the"
+at (0, 2, 3) - (np^/(s/np^)) "the rat that" + (np^/n^) "the"
+at (3, 3, 4) - (np^/n^) "the" + n^ "cat"
+  added np^
+at (2, 2, 4) - ((n^\n^)/(s/np^)) "that" + np^ "the cat"
+  added ((n^\n^)/((s/np^)\np^))
+  added ((n^\n^)/((s\np^)/np^))
+  added ((n^\n^)/((s/np^)/np^))
+  added ((n^\n^)\((s/np^)/np^))
+  added ((n^\n^)\((s/np^)/np^))
+at (1, 2, 4) - (n^/(s/np^)) "rat that" + np^ "the cat"
+  added (n^/((s/np^)\np^))
+  added (n^/((s\np^)/np^))
+  added (n^/((s/np^)/np^))
+  added (n^\((s/np^)/np^))
+  added (n^\((s/np^)/np^))
+at (1, 1, 4) - n^ "rat" + ((n^\n^)/((s/np^)\np^)) "that the cat"
+at (1, 1, 4) - n^ "rat" + ((n^\n^)/((s\np^)/np^)) "that the cat"
+at (1, 1, 4) - n^ "rat" + ((n^\n^)/((s/np^)/np^)) "that the cat"
+  added (n^/((s/np^)/np^))
+at (1, 1, 4) - n^ "rat" + ((n^\n^)\((s/np^)/np^)) "that the cat"
+at (1, 1, 4) - n^ "rat" + ((n^\n^)\((s/np^)/np^)) "that the cat"
+at (0, 2, 4) - (np^/(s/np^)) "the rat that" + np^ "the cat"
+  added (np^/((s/np^)\np^))
+  added (np^/((s\np^)/np^))
+  added (np^/((s/np^)/np^))
+  added (np^\((s/np^)/np^))
+  added (np^\((s/np^)/np^))
+at (0, 1, 4) - np^ "the rat" + ((n^\n^)/((s/np^)\np^)) "that the cat"
+at (0, 1, 4) - np^ "the rat" + ((n^\n^)/((s\np^)/np^)) "that the cat"
+at (0, 1, 4) - np^ "the rat" + ((n^\n^)/((s/np^)/np^)) "that the cat"
+at (0, 1, 4) - np^ "the rat" + ((n^\n^)\((s/np^)/np^)) "that the cat"
+at (0, 1, 4) - np^ "the rat" + ((n^\n^)\((s/np^)/np^)) "that the cat"
+at (0, 0, 4) - (np^/n^) "the" + (n^/((s/np^)\np^)) "rat that the cat"
+at (0, 0, 4) - (np^/n^) "the" + (n^/((s\np^)/np^)) "rat that the cat"
+at (0, 0, 4) - (np^/n^) "the" + (n^/((s/np^)/np^)) "rat that the cat"
+  added (np^/((s/np^)/np^))
+at (0, 0, 4) - (np^/n^) "the" + (n^\((s/np^)/np^)) "rat that the cat"
+at (0, 0, 4) - (np^/n^) "the" + (n^\((s/np^)/np^)) "rat that the cat"
+at (0, 0, 4) - (np^/n^) "the" + (n^/((s/np^)/np^)) "rat that the cat"
+  added (np^/((s/np^)/np^))
+at (4, 4, 5) - n^ "cat" + (s\np^) "chased"
+  added (s/(np^\n^))
+  added (s\(np^/n^))
+  added (s\(np^\n^))
+at (3, 4, 5) - np^ "the cat" + (s\np^) "chased"
+  added s
+at (3, 3, 5) - (np^/n^) "the" + (s/(np^\n^)) "cat chased"
+at (3, 3, 5) - (np^/n^) "the" + (s\(np^/n^)) "cat chased"
+at (3, 3, 5) - (np^/n^) "the" + (s\(np^\n^)) "cat chased"
+at (2, 4, 5) - ((n^\n^)/((s/np^)\np^)) "that the cat" + (s\np^) "chased"
+  added ((n^\n^)\((np^/np^)\np^))
+at (2, 4, 5) - ((n^\n^)/((s\np^)/np^)) "that the cat" + (s\np^) "chased"
+  added ((n^\n^)\((np^\np^)/np^))
+at (2, 4, 5) - ((n^\n^)/((s/np^)/np^)) "that the cat" + (s\np^) "chased"
+  added ((n^\n^)\((np^/np^)/np^))
+at (2, 4, 5) - ((n^\n^)\((s/np^)/np^)) "that the cat" + (s\np^) "chased"
+at (2, 4, 5) - ((n^\n^)\((s/np^)/np^)) "that the cat" + (s\np^) "chased"
+at (2, 2, 5) - ((n^\n^)/(s/np^)) "that" + s "the cat chased"
+at (1, 4, 5) - (n^/((s/np^)\np^)) "rat that the cat" + (s\np^) "chased"
+  added (n^\((np^/np^)\np^))
+at (1, 4, 5) - (n^/((s\np^)/np^)) "rat that the cat" + (s\np^) "chased"
+  added (n^\((np^\np^)/np^))
+at (1, 4, 5) - (n^/((s/np^)/np^)) "rat that the cat" + (s\np^) "chased"
+  added (n^\((np^/np^)/np^))
+at (1, 4, 5) - (n^\((s/np^)/np^)) "rat that the cat" + (s\np^) "chased"
+at (1, 4, 5) - (n^\((s/np^)/np^)) "rat that the cat" + (s\np^) "chased"
+at (1, 4, 5) - (n^/((s/np^)/np^)) "rat that the cat" + (s\np^) "chased"
+  added (n^\((np^/np^)/np^))
+at (1, 2, 5) - (n^/(s/np^)) "rat that" + s "the cat chased"
+at (1, 1, 5) - n^ "rat" + ((n^\n^)\((np^/np^)\np^)) "that the cat chased"
+at (1, 1, 5) - n^ "rat" + ((n^\n^)\((np^\np^)/np^)) "that the cat chased"
+at (1, 1, 5) - n^ "rat" + ((n^\n^)\((np^/np^)/np^)) "that the cat chased"
+at (0, 4, 5) - (np^/((s/np^)\np^)) "the rat that the cat" + (s\np^) "chased"
+  added (s/((s/np^)\np^))
+  added (np^\((np^/np^)\np^))
+at (0, 4, 5) - (np^/((s\np^)/np^)) "the rat that the cat" + (s\np^) "chased"
+  added (s/((s\np^)/np^))
+  added (np^\((np^\np^)/np^))
+at (0, 4, 5) - (np^/((s/np^)/np^)) "the rat that the cat" + (s\np^) "chased"
+  added (s/((s/np^)/np^))
+  added (np^\((np^/np^)/np^))
+at (0, 4, 5) - (np^\((s/np^)/np^)) "the rat that the cat" + (s\np^) "chased"
+  added (s\((s/np^)/np^))
+at (0, 4, 5) - (np^\((s/np^)/np^)) "the rat that the cat" + (s\np^) "chased"
+  added (s\((s/np^)/np^))
+at (0, 4, 5) - (np^/((s/np^)/np^)) "the rat that the cat" + (s\np^) "chased"
+  added (s/((s/np^)/np^))
+  added (np^\((np^/np^)/np^))
+at (0, 4, 5) - (np^/((s/np^)/np^)) "the rat that the cat" + (s\np^) "chased"
+  added (s/((s/np^)/np^))
+  added (np^\((np^/np^)/np^))
+at (0, 2, 5) - (np^/(s/np^)) "the rat that" + s "the cat chased"
+at (0, 1, 5) - np^ "the rat" + ((n^\n^)\((np^/np^)\np^)) "that the cat chased"
+at (0, 1, 5) - np^ "the rat" + ((n^\n^)\((np^\np^)/np^)) "that the cat chased"
+at (0, 1, 5) - np^ "the rat" + ((n^\n^)\((np^/np^)/np^)) "that the cat chased"
+at (0, 0, 5) - (np^/n^) "the" + (n^\((np^/np^)\np^)) "rat that the cat chased"
+at (0, 0, 5) - (np^/n^) "the" + (n^\((np^\np^)/np^)) "rat that the cat chased"
+  added (n^/((n^\np^)/np^))
+at (0, 0, 5) - (np^/n^) "the" + (n^\((np^/np^)/np^)) "rat that the cat chased"
+  added (n^/((n^/np^)/np^))
+at (0, 0, 5) - (np^/n^) "the" + (n^\((np^/np^)/np^)) "rat that the cat chased"
+  added (n^/((n^/np^)/np^))
+at (5, 5, 6) - (s\np^) "chased" + (s\np^) "ran"
+at (4, 5, 6) - (s/(np^\n^)) "cat chased" + (s\np^) "ran"
+at (4, 5, 6) - (s\(np^/n^)) "cat chased" + (s\np^) "ran"
+at (4, 5, 6) - (s\(np^\n^)) "cat chased" + (s\np^) "ran"
+at (3, 5, 6) - s "the cat chased" + (s\np^) "ran"
+at (2, 5, 6) - ((n^\n^)\((np^/np^)\np^)) "that the cat chased" + (s\np^) "ran"
+at (2, 5, 6) - ((n^\n^)\((np^\np^)/np^)) "that the cat chased" + (s\np^) "ran"
+at (2, 5, 6) - ((n^\n^)\((np^/np^)/np^)) "that the cat chased" + (s\np^) "ran"
+at (1, 5, 6) - (n^\((np^/np^)\np^)) "rat that the cat chased" + (s\np^) "ran"
+at (1, 5, 6) - (n^\((np^\np^)/np^)) "rat that the cat chased" + (s\np^) "ran"
+at (1, 5, 6) - (n^\((np^/np^)/np^)) "rat that the cat chased" + (s\np^) "ran"
+at (1, 5, 6) - (n^\((np^/np^)/np^)) "rat that the cat chased" + (s\np^) "ran"
+at (0, 5, 6) - (s/((s/np^)\np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^/np^)\np^))
+at (0, 5, 6) - (np^\((np^/np^)\np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^/np^)\np^))
+at (0, 5, 6) - (s/((s\np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^\np^)/np^))
+at (0, 5, 6) - (np^\((np^\np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^\np^)/np^))
+at (0, 5, 6) - (s/((s/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^/np^)/np^))
+at (0, 5, 6) - (np^\((np^/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^/np^)/np^))
+at (0, 5, 6) - (s\((s/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+at (0, 5, 6) - (s\((s/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+at (0, 5, 6) - (s/((s/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^/np^)/np^))
+at (0, 5, 6) - (np^\((np^/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^/np^)/np^))
+at (0, 5, 6) - (s/((s/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^/np^)/np^))
+at (0, 5, 6) - (np^\((np^/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+  added (s\((np^/np^)/np^))
+at (0, 5, 6) - (n^/((n^\np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+at (0, 5, 6) - (n^/((n^/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+at (0, 5, 6) - (n^/((n^/np^)/np^)) "the rat that the cat chased" + (s\np^) "ran"
+
+PARSE(S):
+*(s\((np^/np^)\np^)) >
+| *((s\((np^/np^)\np^))/(((s/np^)\np^)\((np^/np^)\np^))) Bx\
+| | *(s/((s/np^)\np^)) <
+| | | *(np^/((s/np^)\np^)) >
+| | | | *((np^/((s/np^)\np^))/((s/np^)/((s/np^)\np^))) B
+| | | | | *(np^/(s/np^)) >
+| | | | | | *((np^/(s/np^))/(n^/(s/np^))) B
+| | | | | | | *(np^/n^) "the"
+| | | | | | *(n^/(s/np^)) >
+| | | | | | | *((n^/(s/np^))/((n^\n^)/(s/np^))) B
+| | | | | | | | *(n^/(n^\n^)) >T
+| | | | | | | | | *n^ "rat"
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | *((s/np^)/((s/np^)\np^)) >T
+| | | | | *np^ >
+| | | | | | *(np^/n^) "the"
+| | | | | | *n^ "cat"
+| | | *((s/((s/np^)\np^))\(np^/((s/np^)\np^))) Bx/
+| | | | *(s\np^) "chased"
+| *(((s/np^)\np^)\((np^/np^)\np^)) B
+| | *((s/np^)\(np^/np^)) Bx/
+| | | *(s\np^) "ran"
+*(s\((np^/np^)\np^)) <
+| *(np^\((np^/np^)\np^)) >
+| | *((np^\((np^/np^)\np^))/(((s/np^)\np^)\((np^/np^)\np^))) Bx\
+| | | *(np^/((s/np^)\np^)) >
+| | | | *((np^/((s/np^)\np^))/((s/np^)/((s/np^)\np^))) B
+| | | | | *(np^/(s/np^)) >
+| | | | | | *((np^/(s/np^))/(n^/(s/np^))) B
+| | | | | | | *(np^/n^) "the"
+| | | | | | *(n^/(s/np^)) >
+| | | | | | | *((n^/(s/np^))/((n^\n^)/(s/np^))) B
+| | | | | | | | *(n^/(n^\n^)) >T
+| | | | | | | | | *n^ "rat"
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | *((s/np^)/((s/np^)\np^)) >T
+| | | | | *np^ >
+| | | | | | *(np^/n^) "the"
+| | | | | | *n^ "cat"
+| | *(((s/np^)\np^)\((np^/np^)\np^)) B
+| | | *((s/np^)\(np^/np^)) Bx/
+| | | | *(s\np^) "chased"
+| *((s\((np^/np^)\np^))\(np^\((np^/np^)\np^))) B
+| | *(s\np^) "ran"
+*(s\((np^\np^)/np^)) >
+| *((s\((np^\np^)/np^))/(((s\np^)/np^)\((np^\np^)/np^))) Bx\
+| | *(s/((s\np^)/np^)) <
+| | | *(np^/((s\np^)/np^)) >
+| | | | *((np^/((s\np^)/np^))/((s/np^)/((s\np^)/np^))) B
+| | | | | *(np^/(s/np^)) >
+| | | | | | *((np^/(s/np^))/(n^/(s/np^))) B
+| | | | | | | *(np^/n^) "the"
+| | | | | | *(n^/(s/np^)) >
+| | | | | | | *((n^/(s/np^))/((n^\n^)/(s/np^))) B
+| | | | | | | | *(n^/(n^\n^)) >T
+| | | | | | | | | *n^ "rat"
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | *((s/np^)/((s\np^)/np^)) B
+| | | | | *(s/(s\np^)) >T
+| | | | | | *np^ >
+| | | | | | | *(np^/n^) "the"
+| | | | | | | *n^ "cat"
+| | | *((s/((s\np^)/np^))\(np^/((s\np^)/np^))) Bx/
+| | | | *(s\np^) "chased"
+| *(((s\np^)/np^)\((np^\np^)/np^)) Bx/
+| | *((s\np^)\(np^\np^)) B
+| | | *(s\np^) "ran"
+*(s\((np^\np^)/np^)) <
+| *(np^\((np^\np^)/np^)) >
+| | *((np^\((np^\np^)/np^))/(((s\np^)/np^)\((np^\np^)/np^))) Bx\
+| | | *(np^/((s\np^)/np^)) >
+| | | | *((np^/((s\np^)/np^))/((s/np^)/((s\np^)/np^))) B
+| | | | | *(np^/(s/np^)) >
+| | | | | | *((np^/(s/np^))/(n^/(s/np^))) B
+| | | | | | | *(np^/n^) "the"
+| | | | | | *(n^/(s/np^)) >
+| | | | | | | *((n^/(s/np^))/((n^\n^)/(s/np^))) B
+| | | | | | | | *(n^/(n^\n^)) >T
+| | | | | | | | | *n^ "rat"
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | *((s/np^)/((s\np^)/np^)) B
+| | | | | *(s/(s\np^)) >T
+| | | | | | *np^ >
+| | | | | | | *(np^/n^) "the"
+| | | | | | | *n^ "cat"
+| | *(((s\np^)/np^)\((np^\np^)/np^)) Bx/
+| | | *((s\np^)\(np^\np^)) B
+| | | | *(s\np^) "chased"
+| *((s\((np^\np^)/np^))\(np^\((np^\np^)/np^))) B
+| | *(s\np^) "ran"
+*(s\((np^/np^)/np^)) >
+| *((s\((np^/np^)/np^))/(((s/np^)/np^)\((np^/np^)/np^))) Bx\
+| | *(s/((s/np^)/np^)) <
+| | | *(np^/((s/np^)/np^)) <
+| | | | *((np^/np^)/((s/np^)/np^)) B
+| | | | | *(np^/(s/np^)) >
+| | | | | | *((np^/(s/np^))/(n^/(s/np^))) B
+| | | | | | | *(np^/n^) "the"
+| | | | | | *(n^/(s/np^)) >
+| | | | | | | *((n^/(s/np^))/((n^\n^)/(s/np^))) B
+| | | | | | | | *(n^/(n^\n^)) >T
+| | | | | | | | | *n^ "rat"
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | *((np^/((s/np^)/np^))\((np^/np^)/((s/np^)/np^))) Bx/
+| | | | | *(np^\(np^/np^)) <T
+| | | | | | *np^ >
+| | | | | | | *(np^/n^) "the"
+| | | | | | | *n^ "cat"
+| | | *((s/((s/np^)/np^))\(np^/((s/np^)/np^))) Bx/
+| | | | *(s\np^) "chased"
+| *(((s/np^)/np^)\((np^/np^)/np^)) Bx/
+| | *((s/np^)\(np^/np^)) Bx/
+| | | *(s\np^) "ran"
+*(s\((np^/np^)/np^)) <
+| *(np^\((np^/np^)/np^)) >
+| | *((np^\((np^/np^)/np^))/(((s/np^)/np^)\((np^/np^)/np^))) Bx\
+| | | *(np^/((s/np^)/np^)) <
+| | | | *((np^/np^)/((s/np^)/np^)) B
+| | | | | *(np^/(s/np^)) >
+| | | | | | *((np^/(s/np^))/(n^/(s/np^))) B
+| | | | | | | *(np^/n^) "the"
+| | | | | | *(n^/(s/np^)) >
+| | | | | | | *((n^/(s/np^))/((n^\n^)/(s/np^))) B
+| | | | | | | | *(n^/(n^\n^)) >T
+| | | | | | | | | *n^ "rat"
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | *((np^/((s/np^)/np^))\((np^/np^)/((s/np^)/np^))) Bx/
+| | | | | *(np^\(np^/np^)) <T
+| | | | | | *np^ >
+| | | | | | | *(np^/n^) "the"
+| | | | | | | *n^ "cat"
+| | *(((s/np^)/np^)\((np^/np^)/np^)) Bx/
+| | | *((s/np^)\(np^/np^)) Bx/
+| | | | *(s\np^) "chased"
+| *((s\((np^/np^)/np^))\(np^\((np^/np^)/np^))) B
+| | *(s\np^) "ran"
+*(s\((np^/np^)/np^)) >
+| *((s\((np^/np^)/np^))/(((s/np^)/np^)\((np^/np^)/np^))) Bx\
+| | *(s/((s/np^)/np^)) <
+| | | *(np^/((s/np^)/np^)) >
+| | | | *((np^/((s/np^)/np^))/(n^/((s/np^)/np^))) B
+| | | | | *(np^/n^) "the"
+| | | | *(n^/((s/np^)/np^)) <
+| | | | | *((n^/np^)/((s/np^)/np^)) B
+| | | | | | *(n^/(s/np^)) >
+| | | | | | | *((n^/(s/np^))/((n^\n^)/(s/np^))) B
+| | | | | | | | *(n^/(n^\n^)) >T
+| | | | | | | | | *n^ "rat"
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | | *((n^/((s/np^)/np^))\((n^/np^)/((s/np^)/np^))) Bx/
+| | | | | | *(n^\(n^/np^)) <T
+| | | | | | | *np^ >
+| | | | | | | | *(np^/n^) "the"
+| | | | | | | | *n^ "cat"
+| | | *((s/((s/np^)/np^))\(np^/((s/np^)/np^))) Bx/
+| | | | *(s\np^) "chased"
+| *(((s/np^)/np^)\((np^/np^)/np^)) Bx/
+| | *((s/np^)\(np^/np^)) Bx/
+| | | *(s\np^) "ran"
+*(s\((np^/np^)/np^)) <
+| *(np^\((np^/np^)/np^)) >
+| | *((np^\((np^/np^)/np^))/(((s/np^)/np^)\((np^/np^)/np^))) Bx\
+| | | *(np^/((s/np^)/np^)) >
+| | | | *((np^/((s/np^)/np^))/(n^/((s/np^)/np^))) B
+| | | | | *(np^/n^) "the"
+| | | | *(n^/((s/np^)/np^)) <
+| | | | | *((n^/np^)/((s/np^)/np^)) B
+| | | | | | *(n^/(s/np^)) >
+| | | | | | | *((n^/(s/np^))/((n^\n^)/(s/np^))) B
+| | | | | | | | *(n^/(n^\n^)) >T
+| | | | | | | | | *n^ "rat"
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | | *((n^/((s/np^)/np^))\((n^/np^)/((s/np^)/np^))) Bx/
+| | | | | | *(n^\(n^/np^)) <T
+| | | | | | | *np^ >
+| | | | | | | | *(np^/n^) "the"
+| | | | | | | | *n^ "cat"
+| | *(((s/np^)/np^)\((np^/np^)/np^)) Bx/
+| | | *((s/np^)\(np^/np^)) Bx/
+| | | | *(s\np^) "chased"
+| *((s\((np^/np^)/np^))\(np^\((np^/np^)/np^))) B
+| | *(s\np^) "ran"
+*(s\((np^/np^)/np^)) >
+| *((s\((np^/np^)/np^))/(((s/np^)/np^)\((np^/np^)/np^))) Bx\
+| | *(s/((s/np^)/np^)) <
+| | | *(np^/((s/np^)/np^)) >
+| | | | *((np^/((s/np^)/np^))/(n^/((s/np^)/np^))) B
+| | | | | *(np^/n^) "the"
+| | | | *(n^/((s/np^)/np^)) >
+| | | | | *((n^/((s/np^)/np^))/((n^\n^)/((s/np^)/np^))) B
+| | | | | | *(n^/(n^\n^)) >T
+| | | | | | | *n^ "rat"
+| | | | | *((n^\n^)/((s/np^)/np^)) <
+| | | | | | *(((n^\n^)/np^)/((s/np^)/np^)) B
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | | | *(((n^\n^)/((s/np^)/np^))\(((n^\n^)/np^)/((s/np^)/np^))) Bx/
+| | | | | | | *((n^\n^)\((n^\n^)/np^)) <T
+| | | | | | | | *np^ >
+| | | | | | | | | *(np^/n^) "the"
+| | | | | | | | | *n^ "cat"
+| | | *((s/((s/np^)/np^))\(np^/((s/np^)/np^))) Bx/
+| | | | *(s\np^) "chased"
+| *(((s/np^)/np^)\((np^/np^)/np^)) Bx/
+| | *((s/np^)\(np^/np^)) Bx/
+| | | *(s\np^) "ran"
+*(s\((np^/np^)/np^)) <
+| *(np^\((np^/np^)/np^)) >
+| | *((np^\((np^/np^)/np^))/(((s/np^)/np^)\((np^/np^)/np^))) Bx\
+| | | *(np^/((s/np^)/np^)) >
+| | | | *((np^/((s/np^)/np^))/(n^/((s/np^)/np^))) B
+| | | | | *(np^/n^) "the"
+| | | | *(n^/((s/np^)/np^)) >
+| | | | | *((n^/((s/np^)/np^))/((n^\n^)/((s/np^)/np^))) B
+| | | | | | *(n^/(n^\n^)) >T
+| | | | | | | *n^ "rat"
+| | | | | *((n^\n^)/((s/np^)/np^)) <
+| | | | | | *(((n^\n^)/np^)/((s/np^)/np^)) B
+| | | | | | | *((n^\n^)/(s/np^)) "that"
+| | | | | | *(((n^\n^)/((s/np^)/np^))\(((n^\n^)/np^)/((s/np^)/np^))) Bx/
+| | | | | | | *((n^\n^)\((n^\n^)/np^)) <T
+| | | | | | | | *np^ >
+| | | | | | | | | *(np^/n^) "the"
+| | | | | | | | | *n^ "cat"
+| | *(((s/np^)/np^)\((np^/np^)/np^)) Bx/
+| | | *((s/np^)\(np^/np^)) Bx/
+| | | | *(s\np^) "chased"
+| *((s\((np^/np^)/np^))\(np^\((np^/np^)/np^))) B
+| | *(s\np^) "ran"
+
+DISTANCE COSTS:
+"the" 0
+"rat" 1
+"that" 1
+"the" 0
+"cat" 2
+"chased" 1
+"ran" 1
+

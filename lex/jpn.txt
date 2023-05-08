@@ -1,0 +1,7 @@
+nekoga (v/(v\np))
+nekosika (neg/(neg\np))
+nezumio ((v\np)/((v\np)\np))
+oikake ((v\np)\np)
+nak (neg\v)
+at (v\neg)
+ta (s\v)
